@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mana
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Path
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Skyline
+    uniqueID: 1690039417
+    locked: 0
+  - name: 2 Back
+    uniqueID: 13040409
+    locked: 0
+  - name: 1 Back
+    uniqueID: 3880119543
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Path
+    uniqueID: 2453192137
+    locked: 0
+  - name: ManaButton1
+    uniqueID: 3127583749
+    locked: 0
+  - name: UI
+    uniqueID: 1710109535
+    locked: 0
